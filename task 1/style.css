@@ -1,0 +1,106 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, section {
+    padding: 50px;
+    text-align: center;
+}
+
+header {
+    background: #f0f0f0;
+}
+
+header a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#products {
+    background: #eee;
+}
+
+.product-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.product-card img {
+    width: 50%;
+    border-radius: 5px;
+}
+
+#about {
+    background: #f0f0f0;
+}
+
+.team-member {
+    margin: 20px;
+}
+
+.team-member img {
+    width: 200px;
+    border-radius: 60%;
+    
+}
+
+
+#contact {
+    background: #eee;
+}
+
+form {
+    max-width: 600px;
+    margin: auto;
+}
+
+label, input, textarea, button {
+    display: block;
+    margin-bottom: 10px;
+}
+
+button {
+    background: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.fd{
+    border-image: auto;
+    image-orientation: 0grad;
+}
+#home{
+    background: image shoe 1px;
+}
+.add{
+    align-items:center;
+}
+#name{
+    margin: 10px auto;
+}
+#email{
+    margin: 10px auto;
+}
+#message{
+    margin: 10px auto;
+}
+.sub{
+    margin: 10px auto;
+}
+.tex{
+    text-align: center;
+    text-shadow: #333;
+    text-transform: lowercase;
+
+}
